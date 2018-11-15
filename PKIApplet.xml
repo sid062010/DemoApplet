@@ -1,0 +1,47 @@
+<app>
+	<name>Java Card PKI Applet</name>
+	<web-site>http://javacardos.com/javacardforum/viewtopic.php?f=34&t=24&action=sourceforge</web-site>
+	<authors>
+		<author>
+			<name>javacardos</name>
+			<e-mail>javacardos@gmail.com</e-mail>
+			<web-site>https://www.javacardos.com/</web-site>
+		</author>
+	</authors>
+	<company>javacardos</company>
+	<licene>GNU Library or Lesser General Public License version 2.0 (LGPLv2)</license>
+	<cap-file></cap-file>
+	<icon-file-cart>images/pki_cart.png</icon-file-cart>
+	<icon-file-desc>images/pki_desc.png</icon-file-desc>
+	<version>1.0</version>
+	<signed-by>Not Signed</signed-by>
+	<release-date>2015-11-25</release-date>
+	<description>
+	This is an open source Java Card implementation of the ISO7816 and related PKI standards. 
+	An ISO7816 ﬁle system for storing PKI ﬁles according to the Part 15 of the ISO7816 speciﬁcation [3]: private key directory, certiﬁcate directory, CA and user certiﬁcates, etc.
+	</description>
+	<features>
+		<feature>The implementation of ISO7816 and related PKI standards</feature>
+		<feature>Smart Card open source applet</feature>
+		<feature>Creating a PKI card, Read out PKI card and use the PKI card</feature>
+		<feature>Load certificate, cryptograhic operation</feature>
+		<feature>Encryption and decryption</feature>
+	</features>
+	<repositories>
+		<reporitory>git clone https://git.code.sf.net/p/java-card-pkiapplet/code java-card-pkiapplet-code</reporitory>
+		<reporitory>git clone git://git.code.sf.net/p/java-card-pkiapplet/code java-card-pkiapplet-code</reporitory>
+	</repositories>
+	<discussions>
+		<discussion></discussion>
+	<discussions>
+	<users>
+		<user>
+		<user-id>hitesh.lilhare@gmail.com</user-id>
+		<raiting>3</raiting>
+		<comment></comment>
+		</user>
+		<user-id>hiteshlilhare.13@gmail.com</user-id>
+		<raiting>4</raiting>
+		<comment></comment>
+	</users>
+</app>
